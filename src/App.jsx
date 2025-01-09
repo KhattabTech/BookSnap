@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Library from "./components/Library";
 import BookDetails from "./components/BookDetails";
 
-import Nav from "./components/nav";
+import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import About from "./components/about";
 
