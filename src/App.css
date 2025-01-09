@@ -1,0 +1,13 @@
+body{
+    font-family: "Rubik", serif;
+}
+pre {
+    font-family: "Rubik", serif;
+    font-size: 15px; 
+    white-space: pre-wrap;  
+    word-wrap: break-word;
+    margin: 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
